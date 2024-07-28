@@ -4,6 +4,8 @@
 
 ## Getting Started
 
+### [需要熟悉PR操作介绍请点击这里](./PR.md)
+
 ### Prerequisites
 
 - node >= 16
